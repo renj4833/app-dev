@@ -31,8 +31,3 @@ Why I love it:
 - **Genre:** `Horror`, `Drama`
 - Survivors fight to stay alive in a world overrun by zombies.
 
----
-
-![Prison Break](prison-break.jpg)
-
-Learn more about [All the Bright Places on IMDb](https://www.imdb.com/title/tt4299972/).
